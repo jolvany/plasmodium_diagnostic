@@ -4,10 +4,10 @@ This repository contains basic description and necessary files to run the workfl
 
 The following species are the baselines for detection, taken from PlasmoDB, these versions were the best for our original population, however other species (and parasites) can be utilized in this way with some additional processing: 
 
--*P. falciparum*- PlasmoDB-51_Pfalciparum3D7_Genome
--*P. malariae*- PlasmoDB-51_PmalariaeUG01_Genome
--*P. ovale*- PlasmoDB-51_PovalecurtisiGH01_Genome
--*P. vivax*- PlasmoDB-55_PvivaxP01_Genome
+-*P. falciparum* PlasmoDB-51_Pfalciparum3D7_Genome
+-*P. malariae* PlasmoDB-51_PmalariaeUG01_Genome
+-*P. ovale* PlasmoDB-51_PovalecurtisiGH01_Genome
+-*P. vivax* PlasmoDB-55_PvivaxP01_Genome
 
 **All additional information needed about assay cutoffs and retained genomic regions post processing, please refer to publication noted above**
 
