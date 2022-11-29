@@ -51,11 +51,11 @@ In order to process your samples using this platform, you will need to upload bo
 
 To isolate the unmapped reads from your human sequence we used the following workflow 
 
-***fully_unmapped.cwl***
+***fully-unmapped.cwl***
 
 To align your samples to *Plasmodium* use the following (This app is planned to be available): 
 
-***cram_to_bam.cwl***
+***cram-to-bam.cwl***
 
 The only alternative step, which can be done on the platform, is all index files for each species need to be combined into a tar file for the Bowtie2 app to accept it as a valid index file. We accomplished this through ***SBG Compressor*** already available through the public apps gallery.
 
